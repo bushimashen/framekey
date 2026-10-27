@@ -4,6 +4,8 @@
 
 **English** | [简体中文](README.zh-CN.md)
 
+<a href="https://bushimashen.github.io/framekey/"><b>▶ Live demo</b></a>
+
 ## Why it exists
 
 If you build UI motion, character animation or sticker assets, you often get a clip shot on a **green screen or a flat colored background** and need it as: a folder of transparent PNGs, one sprite sheet plus a JSON of rects, or a transparent video you can drop straight into a page. Most online tools want an upload, an account and a watermark — and frame-by-frame keying really needs to be inspected frame by frame.
